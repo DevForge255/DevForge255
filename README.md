@@ -80,7 +80,26 @@
 
 ### 📫 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-DevForge255-181717?style=flat&logo=github)](https://github.com/DevForge255)
+[![GitHub](https://img.shields.io/badge/GitHub-DevForge255-181717?style=for-the-badge&logo=github)](https://github.com/DevForge255)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mridul%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul-gupta-bb3060387/)
+[![Email](https://img.shields.io/badge/Email-guptamridul168%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guptamridul168@gmail.com)
+
+---
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevForge255/DevForge255/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevForge255/DevForge255/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevForge255/DevForge255/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 
 ---
 
