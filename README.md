@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Animated Name with glow effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Mridul+Gupta)](https://github.com/DevForge255)
+<!-- Main Banner with Name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,9&height=220&section=header&text=Mridul%20Gupta&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Open%20Source%20Contributor%20%7C%20Agentic%20AI%20Developer%20%7C%20Python%20Developer&descAlignY=65&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
-
-### Open Source Contributor | Python Developer | AI Enthusiast
+<!-- Rotating subtitle typewriter -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=🤖+Building+Agentic+AI+Systems;🔭+Open+Source+Contributor+%40+holoviz%2Flumen;🎯+GSoC+Aspirant;💡+Building+AI+tools+that+solve+real+problems;🐍+Python+%7C+LangGraph+%7C+MCP)](https://github.com/DevForge255)
 
 [![GitHub followers](https://img.shields.io/github/followers/DevForge255?label=Follow&style=social)](https://github.com/DevForge255)
 [![Profile Views](https://komarev.com/ghpvc/?username=DevForge255&color=blueviolet&style=flat)](https://github.com/DevForge255)
@@ -87,8 +86,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,9&height=80&section=footer&animation=fadeIn" width="100%"/>
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"First, solve the problem. Then, write the code."*
 
 </div>
