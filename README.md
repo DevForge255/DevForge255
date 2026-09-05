@@ -1,6 +1,9 @@
 <div align="center">
 
-# Hi, I'm Mridul 👋
+<!-- Animated Name with glow effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Mridul+Gupta)](https://github.com/DevForge255)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 
 ### Open Source Contributor | Python Developer | AI Enthusiast
 
@@ -23,10 +26,25 @@
 
 ### 🛠️ Tech Stack
 
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-AI-blueviolet?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI-blueviolet?style=for-the-badge)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -68,5 +86,9 @@
 ---
 
 <div align="center">
-<i>"First, solve the problem. Then, write the code." — John Johnson</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=fadeIn" width="100%"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
 </div>
